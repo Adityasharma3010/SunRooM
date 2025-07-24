@@ -771,7 +771,7 @@
 }
 
 .box-1 {
-  background-image: url(./images/Background\ copy.png);
+  background-image: url(./images/Background-copy.png);
   background-size: cover;
   background-repeat: no-repeat;
   display: block;
@@ -862,7 +862,7 @@
 }
 
 .paralax-1 {
-  background-image: url(./images/paralax\ image.png);
+  background-image: url(./images/paralax-image.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -875,7 +875,7 @@
 
 .paralax-2 {
   background-attachment: fixed;
-  background-image: url(./images/paralax\ photo.png);
+  background-image: url(./images/paralax-photo.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
